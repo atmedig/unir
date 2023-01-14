@@ -1,9 +1,9 @@
 [{"alumno":"Angie","nota":9.09,"ranking":10},
 {"alumno":"Juan","nota":4,"ranking":150},
 {"alumno":"Perez","nota":10,"ranking":20},
-{"alumno":"David","nota":2,"ranking":30},
+{"alumno":"David","nota":6,"ranking":30},
 {"alumno":"Camilo","nota":3,"ranking":20},
 {"alumno":"Tomas","nota":5,"ranking":21},
 {"alumno":"Maria","nota":6,"ranking":50},
-{"alumno":"Paola","nota":2,"ranking":80},
+{"alumno":"Paola","nota":8,"ranking":80},
 {"alumno":"Erica","nota":9,"ranking":120}]
